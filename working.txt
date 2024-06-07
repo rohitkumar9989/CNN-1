@@ -1,0 +1,1 @@
+this cnn file works on tensorflow, so please install the tensorfow 2,15.0 version as it was made to be executed in that environment. If used other environments then no idea because it was not tested on it
